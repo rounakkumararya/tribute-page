@@ -1,0 +1,68 @@
+body{
+  display:block;
+  text-align:center;
+  font-family:'Merriweather', serif;
+  margin: 0 ;
+  font-size:1.4rem;
+}
+
+main{
+  margin:50 10;
+  background-color: #F1E7EA;
+  padding: 15px;
+}
+
+#title{
+  font-size: 3.8em;
+  margin: 19 ;
+}
+
+#img-div{
+  margin:0;
+  background-color: white;
+  padding: 10px;
+}
+
+img{
+  max-width: 100%;
+  display:block;
+  margin: 0 auto;
+  height:auto;
+}
+
+#img-caption{
+  padding:10px 0;
+  font-size: 1.5em;
+  margin: 15px 0 5px 0;
+  display:block;
+}
+
+#tribute-info{
+  display:block;
+  text-align:center;
+}
+
+.headline{
+  margin:50px 0;
+  text-align:center;
+}
+
+ul{
+  max-width:600px;
+  text-align:left;
+  margin:0 auto 20px auto;
+}
+
+li{
+  margin:17px 0;
+  line-height: 1.6;
+}
+.quote{
+  font-style:italic;
+  max-width:600px;
+  text-align:left;
+  margin:40px auto ;
+}
+.end{
+  margin:40px 0  ;
+}
